@@ -1,5 +1,7 @@
 package problem21;
 
+import model.ListNode;
+
 public class Solution21 {
 
     public static ListNode mergeTwoLists(ListNode list1, ListNode list2) {

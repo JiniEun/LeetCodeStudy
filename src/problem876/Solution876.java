@@ -1,5 +1,7 @@
 package problem876;
 
+import model.ListNode;
+
 public class Solution876 {
 
 	public static ListNode middleNode(ListNode head) {

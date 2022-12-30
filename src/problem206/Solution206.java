@@ -1,6 +1,6 @@
 package problem206;
 
-import java.util.HashMap;
+import model.ListNode;
 
 public class Solution206 {
     public static ListNode reverseList(ListNode head) {
